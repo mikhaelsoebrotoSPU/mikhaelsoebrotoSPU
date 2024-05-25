@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhaelsoebrotospu&label=Profile%20views&color=0e75b6&style=flat" alt="mikhaelsoebrotospu" /> </p>
 
-- 📄My Current Resume [Resume](https://github.com/mikhaelsoebrotoSPU/mikhaelsoebrotoSPU/blob/main/Blue%20and%20White%20Modern%20Photo%20Engineering%20Resume.pdf)
+- 📄My Current [Resume](https://github.com/mikhaelsoebrotoSPU/mikhaelsoebrotoSPU/blob/main/Blue%20and%20White%20Modern%20Photo%20Engineering%20Resume.pdf)
 
 - ⌨️ Languages I love **Java, Python, C++, React**
 
